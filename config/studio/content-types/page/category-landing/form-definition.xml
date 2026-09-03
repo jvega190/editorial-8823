@@ -332,7 +332,7 @@
 								</property>
 								<property>
 									<name>itemManager</name>
-									<value/>
+									<value>featuresDS</value>
 									<type>datasource:item</type>
 								</property>
 								<property>
@@ -358,6 +358,10 @@
 							</properties>
 							<constraints>
 								<constraint>
+									<name>required</name>
+									<type>undefined</type>
+								</constraint>
+								<constraint>
 									<name>allowDuplicates</name>
 									<value>false</value>
 									<type>boolean</type>
@@ -377,6 +381,13 @@
 							<type>int</type>
 						</property>
 					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value>false</value>
+							<type>boolean</type>
+						</constraint>
+					</constraints>
 				</field>
 			</fields>
 			<color>rgba(100, 55, 158, 0.7)</color>
