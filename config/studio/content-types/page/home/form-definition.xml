@@ -553,12 +553,65 @@
 					</properties>
 					<constraints>
 						<constraint>
-							<name>required</name>
-							<type>undefined</type>
-						</constraint>
-						<constraint>
 							<name>allowDuplicates</name>
 							<value>true</value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>required</name>
+							<value>false</value>
+							<type>boolean</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<id>features2_o</id>
+					<title>Features2</title>
+					<description/>
+					<defaultValue/>
+					<type>node-selector</type>
+					<help/>
+					<properties>
+						<property>
+							<name>minSize</name>
+							<value/>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxSize</name>
+							<value/>
+							<type>int</type>
+						</property>
+						<property>
+							<name>itemManager</name>
+							<value>featuresComponents</value>
+							<type>datasource:item</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>disableFlattening</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>useSingleValueFilename</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>useMVS</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>allowDuplicates</name>
+							<value>false</value>
 							<type>boolean</type>
 						</constraint>
 					</constraints>
