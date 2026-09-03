@@ -554,13 +554,12 @@
 					<constraints>
 						<constraint>
 							<name>allowDuplicates</name>
-							<value>true</value>
+							<value>false</value>
 							<type>boolean</type>
 						</constraint>
 						<constraint>
 							<name>required</name>
-							<value>false</value>
-							<type>boolean</type>
+							<type>undefined</type>
 						</constraint>
 					</constraints>
 				</field>
@@ -610,7 +609,7 @@
 					</properties>
 					<constraints>
 						<constraint>
-							<name>allowDuplicates</name>
+							<name>required</name>
 							<value>false</value>
 							<type>boolean</type>
 						</constraint>
