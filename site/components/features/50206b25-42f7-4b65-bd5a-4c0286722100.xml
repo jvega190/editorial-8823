@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component id="50206b25-42f7-4b65-bd5a-4c0286722100">
+  <content-type>/component/feature</content-type>
+  <display-template>/templates/web/components/feature.ftl</display-template>
+  <no-template-required/>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <objectGroupId>4be0</objectGroupId>
+  <objectId>50206b25-42f7-4b65-bd5a-4c0286722100</objectId>
+  <file-name>50206b25-42f7-4b65-bd5a-4c0286722100.xml</file-name>
+  <internal-name>Smile</internal-name>
+  <title_t>Smile</title_t>
+  <disabled>false</disabled>
+  <icon_s>fa-smile far</icon_s>
+  <body_html>&lt;p&gt;Smile, aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.&lt;/p&gt;</body_html>
+  <createdDate>2026-09-03T17:33:15.417Z</createdDate>
+  <createdDate_dt>2026-09-03T17:33:15.417Z</createdDate_dt>
+  <lastModifiedDate>2026-09-03T17:33:15.417Z</lastModifiedDate>
+  <lastModifiedDate_dt>2026-09-03T17:33:15.417Z</lastModifiedDate_dt>
+</component>
