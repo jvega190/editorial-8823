@@ -55,6 +55,21 @@
                             />
 			</section>
 			<!-- /Section: Features -->
+			
+			<!-- Section: Features2 -->
+			<section>
+				<header class="major">
+                    <@crafter.h2 $field="features_title_t">
+                        ${contentModel.features_title_t} 2
+                    </@crafter.h2>
+				</header>
+                <@crafter.renderComponentCollection
+                    $field="features2_o"
+                    $containerAttributes={ "class": "features" }
+                    $itemAttributes={ "class": "feature-container" }
+                />
+			</section>
+			<!-- /Section: Features -->
 
 			<!-- Section: Articles -->
 			<section>
