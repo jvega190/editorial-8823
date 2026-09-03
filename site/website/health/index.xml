@@ -19,6 +19,13 @@
 					<fileType_smv>xml</fileType_smv>
 					<disableFlattening>false</disableFlattening>
 				</item>
+				<item>
+					<key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
+					<value>Closed captioning</value>
+					<include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
+					<fileType_smv>xml</fileType_smv>
+					<disableFlattening>false</disableFlattening>
+				</item>
 			</features_o>
 		</item>
 		<item>
@@ -27,6 +34,13 @@
 					<key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
 					<value>Smile</value>
 					<include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+					<fileType_smv>xml</fileType_smv>
+					<disableFlattening>false</disableFlattening>
+				</item>
+				<item>
+					<key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
+					<value>Closed captioning</value>
+					<include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
 					<fileType_smv>xml</fileType_smv>
 					<disableFlattening>false</disableFlattening>
 				</item>
@@ -43,7 +57,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<createdDate>2017-03-14T15:21:57.000Z</createdDate>
 	<createdDate_dt>2017-03-14T15:21:57.000Z</createdDate_dt>
-	<lastModifiedDate>2026-09-03T20:18:34.367Z</lastModifiedDate>
-	<lastModifiedDate_dt>2026-09-03T20:18:34.367Z</lastModifiedDate_dt>
+	<lastModifiedDate>2026-09-03T20:32:56.297Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-09-03T20:32:56.297Z</lastModifiedDate_dt>
 	<savedAsDraft>false</savedAsDraft>
 </page>
