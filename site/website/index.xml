@@ -44,8 +44,8 @@
 				<internal-name>Download</internal-name>
 				<createdDate>2019-10-11T19:20:07.555Z</createdDate>
 				<createdDate_dt>2019-10-11T19:20:07.555Z</createdDate_dt>
-				<lastModifiedDate>2026-09-03T17:26:33.847Z</lastModifiedDate>
-				<lastModifiedDate_dt>2026-09-03T17:26:33.847Z</lastModifiedDate_dt>
+				<lastModifiedDate>2026-09-03T17:27:53.633Z</lastModifiedDate>
+				<lastModifiedDate_dt>2026-09-03T17:27:53.633Z</lastModifiedDate_dt>
 				<disabled>false</disabled>
 				<icon_s>fa-arrow-alt-circle-down far</icon_s>
 				<title_t>Download</title_t>
@@ -92,27 +92,31 @@
 			<key>d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7</key>
 			<value>AFeature</value>
 			<component id="d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7">
-				<internal-name>AFeature</internal-name>
+				<content-type>/component/feature</content-type>
+				<display-template>/templates/web/components/feature.ftl</display-template>
+				<no-template-required>false</no-template-required>
+				<merge-strategy>inherit-levels</merge-strategy>
+				<objectId>d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7</objectId>
 				<file-name/>
+				<internal-name>AFeature</internal-name>
+				<createdDate>2026-09-03T17:26:20.591Z</createdDate>
+				<createdDate_dt>2026-09-03T17:26:20.591Z</createdDate_dt>
+				<lastModifiedDate>2026-09-03T17:26:30.169Z</lastModifiedDate>
+				<lastModifiedDate_dt>2026-09-03T17:26:30.169Z</lastModifiedDate_dt>
 				<disabled>false</disabled>
 				<icon_s>fa-closed-captioning far</icon_s>
 				<title_t>Feature Title</title_t>
 				<body_html>
 					<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]>
 				</body_html>
-				<objectId>d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7</objectId>
-				<content-type>/component/feature</content-type>
-				<display-template>/templates/web/components/feature.ftl</display-template>
-				<no-template-required>false</no-template-required>
-				<merge-strategy>inherit-levels</merge-strategy>
-				<createdDate>2026-09-03T17:26:20.591Z</createdDate>
-				<createdDate_dt>2026-09-03T17:26:20.591Z</createdDate_dt>
-				<lastModifiedDate>2026-09-03T17:26:30.169Z</lastModifiedDate>
-				<lastModifiedDate_dt>2026-09-03T17:26:30.169Z</lastModifiedDate_dt>
-				<savedAsDraft>true</savedAsDraft>
-				<placeInNav>false</placeInNav>
-				<navLabel/>
 			</component>
+			<disableFlattening>false</disableFlattening>
+		</item>
+		<item>
+			<key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
+			<value>Smile</value>
+			<include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+			<fileType_smv>xml</fileType_smv>
 			<disableFlattening>false</disableFlattening>
 		</item>
 	</features2_o>
@@ -123,8 +127,8 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2026-09-03T17:26:33.467Z</lastModifiedDate>
-	<lastModifiedDate_dt>2026-09-03T17:26:33.467Z</lastModifiedDate_dt>
+	<lastModifiedDate>2026-09-03T17:27:53.003Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-09-03T17:27:53.003Z</lastModifiedDate_dt>
 	<savedAsDraft>false</savedAsDraft>
 	<placeInNav>false</placeInNav>
 </page>
