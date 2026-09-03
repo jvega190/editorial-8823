@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-  <folder-name/>
-  <internal-name>Home</internal-name>
-  <navLabel>Home</navLabel>
-  <disabled>false</disabled>
-  <title_t>Editorial</title_t>
-  <header_o item-list="true"/>
-  <left_rail_o item-list="true">
-    <item>
-      <key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
-      <value>Left Rail with Latest Articles</value>
-      <include>/site/components/left-rails/left-rail-with-latest-articles.xml</include>
-      <disableFlattening>false</disableFlattening>
-    </item>
-  </left_rail_o>
-  <hero_title_html>
+	<folder-name/>
+	<internal-name>Home</internal-name>
+	<navLabel>Home</navLabel>
+	<disabled>false</disabled>
+	<title_t>Editorial</title_t>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true">
+		<item>
+			<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
+			<value>Left Rail with Latest Articles</value>
+			<include>/site/components/left-rails/left-rail-with-latest-articles.xml</include>
+			<disableFlattening>false</disableFlattening>
+		</item>
+	</left_rail_o>
+	<hero_title_html>
 		<![CDATA[<h1>Hi, I&rsquo;m Editorial</h1>
 		<h3><span style="font-size: 1.5em;">by HTML5 UP</span></h3>]]>
 	</hero_title_html>
-  <hero_text_html>
+	<hero_text_html>
 		<![CDATA[<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>]]>
 	</hero_text_html>
-  <hero_image_s>/static-assets/images/strawberries.jpg</hero_image_s>
-  <features_title_t>Erat lacinia</features_title_t>
-  <features_o item-list="true">
-    <item>
-      <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
-      <value>Smile</value>
-      <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
-      <disableFlattening>false</disableFlattening>
-    </item>
-    <item inline="true">
-      <key>a89386c4-a205-2681-2db1-c3606f714411</key>
-      <value>Build</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="a89386c4-a205-2681-2db1-c3606f714411">
-        <content-type>/component/feature</content-type>
-        <display-template>/templates/web/components/feature.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <objectId>a89386c4-a205-2681-2db1-c3606f714411</objectId>
-        <file-name>a89386c4-a205-2681-2db1-c3606f714411.xml</file-name>
-        <internal-name>Build</internal-name>
-        <createdDate>2019-10-11T19:19:53.590Z</createdDate>
-        <createdDate_dt>2019-10-11T19:19:53.590Z</createdDate_dt>
-        <lastModifiedDate>2026-09-03T17:33:42.490Z</lastModifiedDate>
-        <lastModifiedDate_dt>2026-09-03T17:33:42.490Z</lastModifiedDate_dt>
-        <disabled>false</disabled>
-        <icon_s>fa-building far</icon_s>
-        <title_t>Build</title_t>
-        <body_html>
+	<hero_image_s>/static-assets/images/strawberries.jpg</hero_image_s>
+	<features_title_t>Erat lacinia</features_title_t>
+	<features_o item-list="true">
+		<item>
+			<key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
+			<value>Smile</value>
+			<include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+			<disableFlattening>false</disableFlattening>
+		</item>
+		<item inline="true">
+			<key>a89386c4-a205-2681-2db1-c3606f714411</key>
+			<value>Build</value>
+			<disableFlattening>false</disableFlattening>
+			<component id="a89386c4-a205-2681-2db1-c3606f714411">
+				<content-type>/component/feature</content-type>
+				<display-template>/templates/web/components/feature.ftl</display-template>
+				<no-template-required/>
+				<merge-strategy>inherit-levels</merge-strategy>
+				<objectId>a89386c4-a205-2681-2db1-c3606f714411</objectId>
+				<file-name>a89386c4-a205-2681-2db1-c3606f714411.xml</file-name>
+				<internal-name>Build</internal-name>
+				<createdDate>2019-10-11T19:19:53.590Z</createdDate>
+				<createdDate_dt>2019-10-11T19:19:53.590Z</createdDate_dt>
+				<lastModifiedDate>2026-09-03T17:35:13.823Z</lastModifiedDate>
+				<lastModifiedDate_dt>2026-09-03T17:35:13.823Z</lastModifiedDate_dt>
+				<disabled>false</disabled>
+				<icon_s>fa-building far</icon_s>
+				<title_t>Build</title_t>
+				<body_html>
 					<![CDATA[<p>Build enean ornare velit lacus, ac varius enim lorem ullamcorper dolore.
 					Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>]]>
 				</body_html>
-      </component>
-    </item>
-    <item>
-      <key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
-      <value>Closed captioning</value>
-      <include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
-      <disableFlattening>false</disableFlattening>
-    </item>
-  </features_o>
-  <features2_o item-list="true">
-    <item inline="true">
-      <key>d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7</key>
-      <value>AFeature</value>
-      <component id="d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7">
-        <content-type>/component/feature</content-type>
-        <display-template>/templates/web/components/feature.ftl</display-template>
-        <no-template-required>false</no-template-required>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <objectId>d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7</objectId>
-        <file-name/>
-        <internal-name>AFeature</internal-name>
-        <createdDate>2026-09-03T17:26:20.591Z</createdDate>
-        <createdDate_dt>2026-09-03T17:26:20.591Z</createdDate_dt>
-        <lastModifiedDate>2026-09-03T17:26:30.169Z</lastModifiedDate>
-        <lastModifiedDate_dt>2026-09-03T17:26:30.169Z</lastModifiedDate_dt>
-        <disabled>false</disabled>
-        <icon_s>fa-closed-captioning far</icon_s>
-        <title_t>Feature Title</title_t>
-        <body_html>
+			</component>
+		</item>
+		<item>
+			<key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
+			<value>Closed captioning</value>
+			<include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
+			<disableFlattening>false</disableFlattening>
+		</item>
+	</features_o>
+	<features2_o item-list="true">
+		<item>
+			<key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
+			<value>Smile</value>
+			<include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+			<fileType_smv>xml</fileType_smv>
+			<disableFlattening>false</disableFlattening>
+		</item>
+		<item inline="true">
+			<key>d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7</key>
+			<value>AFeature</value>
+			<component id="d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7">
+				<content-type>/component/feature</content-type>
+				<display-template>/templates/web/components/feature.ftl</display-template>
+				<no-template-required>false</no-template-required>
+				<merge-strategy>inherit-levels</merge-strategy>
+				<objectId>d8943e39-a5d0-4a0f-af4d-b1d8799cc5c7</objectId>
+				<file-name/>
+				<internal-name>AFeature</internal-name>
+				<createdDate>2026-09-03T17:26:20.591Z</createdDate>
+				<createdDate_dt>2026-09-03T17:26:20.591Z</createdDate_dt>
+				<lastModifiedDate>2026-09-03T17:26:30.169Z</lastModifiedDate>
+				<lastModifiedDate_dt>2026-09-03T17:26:30.169Z</lastModifiedDate_dt>
+				<disabled>false</disabled>
+				<icon_s>fa-closed-captioning far</icon_s>
+				<title_t>Feature Title</title_t>
+				<body_html>
 					<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]>
 				</body_html>
-      </component>
-      <disableFlattening>false</disableFlattening>
-    </item>
-    <item>
-      <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
-      <value>Smile</value>
-      <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
-      <fileType_smv>xml</fileType_smv>
-      <disableFlattening>false</disableFlattening>
-    </item>
-  </features2_o>
-  <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-  <content-type>/page/home</content-type>
-  <display-template>/templates/web/pages/home.ftl</display-template>
-  <no-template-required>false</no-template-required>
-  <merge-strategy>inherit-levels</merge-strategy>
-  <createdDate>2017-01-31T16:18:14.000Z</createdDate>
-  <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-  <lastModifiedDate>2026-09-03T17:33:42.239Z</lastModifiedDate>
-  <lastModifiedDate_dt>2026-09-03T17:33:42.239Z</lastModifiedDate_dt>
-  <savedAsDraft>false</savedAsDraft>
-  <placeInNav>false</placeInNav>
+			</component>
+			<disableFlattening>false</disableFlattening>
+		</item>
+	</features2_o>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/pages/home.ftl</display-template>
+	<no-template-required>false</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2026-09-03T17:35:12.717Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-09-03T17:35:12.717Z</lastModifiedDate_dt>
+	<savedAsDraft>false</savedAsDraft>
+	<placeInNav>false</placeInNav>
 </page>
