@@ -553,13 +553,13 @@
 					</properties>
 					<constraints>
 						<constraint>
-							<name>allowDuplicates</name>
-							<value>false</value>
-							<type>boolean</type>
-						</constraint>
-						<constraint>
 							<name>required</name>
 							<type>undefined</type>
+						</constraint>
+						<constraint>
+							<name>allowDuplicates</name>
+							<value>true</value>
+							<type>boolean</type>
 						</constraint>
 					</constraints>
 				</field>
