@@ -1,101 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component id="af023d71-d5ea-f8e5-2ec9-07a8b239d0c5">
-	<folder-name/>
-	<internal-name>Header</internal-name>
-	<disabled>false</disabled>
-	<features_o item-list="true">
-		<item>
-			<key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
-			<value>Smile</value>
-			<include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
-			<fileType_smv>xml</fileType_smv>
-			<disableFlattening>false</disableFlattening>
-		</item>
-		<item inline="true">
-			<key>39f1f740-dd21-43d5-a569-b64c347d01cd</key>
-			<value>asd</value>
-			<component id="39f1f740-dd21-43d5-a569-b64c347d01cd">
-				<internal-name>asd</internal-name>
-				<file-name/>
-				<disabled>false</disabled>
-				<icon_s>fa-closed-captioning far</icon_s>
-				<title_t>Feature Title</title_t>
-				<body_html>
+  <folder-name/>
+  <internal-name>Header</internal-name>
+  <disabled>false</disabled>
+  <features_o item-list="true">
+    <item inline="true">
+      <key>39f1f740-dd21-43d5-a569-b64c347d01cd</key>
+      <value>asd</value>
+      <component id="39f1f740-dd21-43d5-a569-b64c347d01cd">
+        <internal-name>asd</internal-name>
+        <file-name/>
+        <disabled>false</disabled>
+        <icon_s>fa-closed-captioning far</icon_s>
+        <title_t>Feature Title</title_t>
+        <body_html>
 					<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]>
 				</body_html>
-				<objectId>39f1f740-dd21-43d5-a569-b64c347d01cd</objectId>
-				<content-type>/component/feature</content-type>
-				<display-template>/templates/web/components/feature.ftl</display-template>
-				<no-template-required>false</no-template-required>
-				<merge-strategy>inherit-levels</merge-strategy>
-				<createdDate>2026-09-04T16:59:17.774Z</createdDate>
-				<createdDate_dt>2026-09-04T16:59:17.774Z</createdDate_dt>
-				<lastModifiedDate>2026-09-04T16:59:22.753Z</lastModifiedDate>
-				<lastModifiedDate_dt>2026-09-04T16:59:22.753Z</lastModifiedDate_dt>
-				<savedAsDraft>true</savedAsDraft>
-				<placeInNav>false</placeInNav>
-				<navLabel/>
-			</component>
-			<disableFlattening>false</disableFlattening>
-		</item>
-	</features_o>
-	<logo_s>/static-assets/images/1-gear.png</logo_s>
-	<logo_text_t/>
-	<business_name_s>Editorial</business_name_s>
-	<socialMediaWidget_o item-list="true">
-		<item inline="true">
-			<key>c646ba89-a4c3-308f-3492-93be61429fec</key>
-			<value>Social Media Networks</value>
-			<component id="c646ba89-a4c3-308f-3492-93be61429fec">
-				<content-type>/component/social-media-widget</content-type>
-				<display-template>/templates/web/components/social-media-widget.ftl</display-template>
-				<no-template-required/>
-				<merge-strategy>inherit-levels</merge-strategy>
-				<objectId>c646ba89-a4c3-308f-3492-93be61429fec</objectId>
-				<file-name>c646ba89-a4c3-308f-3492-93be61429fec.xml</file-name>
-				<folder-name/>
-				<internal-name>Social Media Networks</internal-name>
-				<createdDate>2022-02-22T19:04:47.646Z</createdDate>
-				<createdDate_dt>2022-02-22T19:04:47.646Z</createdDate_dt>
-				<lastModifiedDate>2022-03-14T22:41:09.371Z</lastModifiedDate>
-				<lastModifiedDate_dt>2022-03-14T22:41:09.371Z</lastModifiedDate_dt>
-				<header_s/>
-				<accounts_o item-list="true">
-					<item>
-						<network_s>facebook</network_s>
-						<title_s/>
-						<url_s>#</url_s>
-						<icon_s/>
-					</item>
-					<item>
-						<network_s>twitter</network_s>
-						<title_s/>
-						<url_s>#</url_s>
-						<icon_s/>
-					</item>
-					<item>
-						<network_s>github</network_s>
-						<title_s/>
-						<url_s>#</url_s>
-						<icon_s/>
-					</item>
-				</accounts_o>
-				<iconsWidth_i>24</iconsWidth_i>
-				<iconsHeight_i>24</iconsHeight_i>
-				<showItemsInline_b>true</showItemsInline_b>
-			</component>
-		</item>
-	</socialMediaWidget_o>
-	<objectId>af023d71-d5ea-f8e5-2ec9-07a8b239d0c5</objectId>
-	<content-type>/component/header</content-type>
-	<display-template>/templates/web/components/header.ftl</display-template>
-	<no-template-required>false</no-template-required>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<createdDate>2017-02-3T23:27:50.000Z</createdDate>
-	<createdDate_dt>2017-02-3T23:27:50.000Z</createdDate_dt>
-	<lastModifiedDate>2026-09-04T16:59:21.963Z</lastModifiedDate>
-	<lastModifiedDate_dt>2026-09-04T16:59:21.963Z</lastModifiedDate_dt>
-	<savedAsDraft>false</savedAsDraft>
-	<placeInNav>false</placeInNav>
-	<navLabel/>
+        <objectId>39f1f740-dd21-43d5-a569-b64c347d01cd</objectId>
+        <content-type>/component/feature</content-type>
+        <display-template>/templates/web/components/feature.ftl</display-template>
+        <no-template-required>false</no-template-required>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate>2026-09-04T16:59:17.774Z</createdDate>
+        <createdDate_dt>2026-09-04T16:59:17.774Z</createdDate_dt>
+        <lastModifiedDate>2026-09-04T16:59:40.113Z</lastModifiedDate>
+        <lastModifiedDate_dt>2026-09-04T16:59:40.113Z</lastModifiedDate_dt>
+        <savedAsDraft>true</savedAsDraft>
+        <placeInNav>false</placeInNav>
+        <navLabel/>
+      </component>
+      <disableFlattening>false</disableFlattening>
+    </item>
+    <item>
+      <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
+      <value>Smile</value>
+      <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+      <fileType_smv>xml</fileType_smv>
+      <disableFlattening>false</disableFlattening>
+    </item>
+  </features_o>
+  <logo_s>/static-assets/images/1-gear.png</logo_s>
+  <logo_text_t/>
+  <business_name_s>Editorial</business_name_s>
+  <socialMediaWidget_o item-list="true">
+    <item inline="true">
+      <key>c646ba89-a4c3-308f-3492-93be61429fec</key>
+      <value>Social Media Networks</value>
+      <component id="c646ba89-a4c3-308f-3492-93be61429fec">
+        <content-type>/component/social-media-widget</content-type>
+        <display-template>/templates/web/components/social-media-widget.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <objectId>c646ba89-a4c3-308f-3492-93be61429fec</objectId>
+        <file-name>c646ba89-a4c3-308f-3492-93be61429fec.xml</file-name>
+        <folder-name/>
+        <internal-name>Social Media Networks</internal-name>
+        <createdDate>2022-02-22T19:04:47.646Z</createdDate>
+        <createdDate_dt>2022-02-22T19:04:47.646Z</createdDate_dt>
+        <lastModifiedDate>2022-03-14T22:41:09.371Z</lastModifiedDate>
+        <lastModifiedDate_dt>2022-03-14T22:41:09.371Z</lastModifiedDate_dt>
+        <header_s/>
+        <accounts_o item-list="true">
+          <item>
+            <network_s>facebook</network_s>
+            <title_s/>
+            <url_s>#</url_s>
+            <icon_s/>
+          </item>
+          <item>
+            <network_s>twitter</network_s>
+            <title_s/>
+            <url_s>#</url_s>
+            <icon_s/>
+          </item>
+          <item>
+            <network_s>github</network_s>
+            <title_s/>
+            <url_s>#</url_s>
+            <icon_s/>
+          </item>
+        </accounts_o>
+        <iconsWidth_i>24</iconsWidth_i>
+        <iconsHeight_i>24</iconsHeight_i>
+        <showItemsInline_b>true</showItemsInline_b>
+      </component>
+    </item>
+  </socialMediaWidget_o>
+  <objectId>af023d71-d5ea-f8e5-2ec9-07a8b239d0c5</objectId>
+  <content-type>/component/header</content-type>
+  <display-template>/templates/web/components/header.ftl</display-template>
+  <no-template-required>false</no-template-required>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <createdDate>2017-02-3T23:27:50.000Z</createdDate>
+  <createdDate_dt>2017-02-3T23:27:50.000Z</createdDate_dt>
+  <lastModifiedDate>2026-09-04T16:59:39.964Z</lastModifiedDate>
+  <lastModifiedDate_dt>2026-09-04T16:59:39.964Z</lastModifiedDate_dt>
+  <savedAsDraft>false</savedAsDraft>
+  <placeInNav>false</placeInNav>
+  <navLabel/>
 </component>
