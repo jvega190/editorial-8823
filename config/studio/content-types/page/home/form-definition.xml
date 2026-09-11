@@ -297,6 +297,23 @@
 						</constraint>
 					</constraints>
 				</field>
+				<field>
+					<id>label_s</id>
+					<title>Label</title>
+					<description/>
+					<defaultValue/>
+					<type>label</type>
+					<help/>
+					<properties>
+						<property>
+							<name>text</name>
+							<value>
+								<![CDATA[<p><strong>My label</strong> <s>super</s></p>]]>
+							</value>
+							<type>rte</type>
+						</property>
+					</properties>
+				</field>
 			</fields>
 			<color>rgba(100, 55, 158, 0.7)</color>
 		</section>
@@ -553,12 +570,13 @@
 					</properties>
 					<constraints>
 						<constraint>
-							<name>required</name>
-							<type>undefined</type>
-						</constraint>
-						<constraint>
 							<name>allowDuplicates</name>
 							<value>true</value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>required</name>
+							<value>false</value>
 							<type>boolean</type>
 						</constraint>
 					</constraints>
