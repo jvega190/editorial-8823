@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<folder-name>health</folder-name>
-	<internal-name>Health</internal-name>
-	<disabled>false</disabled>
-	<orderDefault_f>9000</orderDefault_f>
-	<placeInNav>true</placeInNav>
-	<navLabel>Health</navLabel>
-	<title_t>Health</title_t>
-	<header_o item-list="true"/>
-	<left_rail_o item-list="true"/>
-	<myRepeat_o item-list="true">
-		<item>
-			<features_o item-list="true">
-				<item>
-					<key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
-					<value>Closed captioning</value>
-					<include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
-					<fileType_smv>xml</fileType_smv>
-					<disableFlattening>false</disableFlattening>
-				</item>
-				<item>
-					<key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
-					<value>Smile</value>
-					<include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
-					<disableFlattening>false</disableFlattening>
-				</item>
-			</features_o>
-		</item>
-		<item>
-			<features_o item-list="true">
-				<item>
-					<key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
-					<value>Closed captioning</value>
-					<include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
-					<fileType_smv>xml</fileType_smv>
-					<disableFlattening>false</disableFlattening>
-				</item>
-				<item>
-					<key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
-					<value>Smile</value>
-					<include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
-					<fileType_smv>xml</fileType_smv>
-					<disableFlattening>false</disableFlattening>
-				</item>
-			</features_o>
-		</item>
-	</myRepeat_o>
-	<articles_title_t>Health</articles_title_t>
-	<category_s>health</category_s>
-	<max_articles_i>10</max_articles_i>
-	<objectId>05573d7a-3556-1ad0-6e34-9b085944fee2</objectId>
-	<content-type>/page/category-landing</content-type>
-	<display-template>/templates/web/pages/category-landing.ftl</display-template>
-	<no-template-required>false</no-template-required>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<createdDate>2017-03-14T15:21:57.000Z</createdDate>
-	<createdDate_dt>2017-03-14T15:21:57.000Z</createdDate_dt>
-	<lastModifiedDate>2026-09-11T20:42:35.357Z</lastModifiedDate>
-	<lastModifiedDate_dt>2026-09-11T20:42:35.357Z</lastModifiedDate_dt>
-	<savedAsDraft>false</savedAsDraft>
+  <folder-name>health</folder-name>
+  <internal-name>Health</internal-name>
+  <disabled>false</disabled>
+  <orderDefault_f>9000</orderDefault_f>
+  <placeInNav>true</placeInNav>
+  <navLabel>Health</navLabel>
+  <title_t>Health</title_t>
+  <header_o item-list="true"/>
+  <left_rail_o item-list="true"/>
+  <myRepeat_o item-list="true">
+    <item>
+      <features_o item-list="true">
+        <item>
+          <key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
+          <value>Closed captioning</value>
+          <include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
+          <fileType_smv>xml</fileType_smv>
+          <disableFlattening>false</disableFlattening>
+        </item>
+        <item>
+          <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
+          <value>Smile</value>
+          <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+          <disableFlattening>false</disableFlattening>
+        </item>
+      </features_o>
+    </item>
+    <item>
+      <features_o item-list="true">
+        <item>
+          <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
+          <value>Smile</value>
+          <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+          <fileType_smv>xml</fileType_smv>
+          <disableFlattening>false</disableFlattening>
+        </item>
+        <item>
+          <key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
+          <value>Closed captioning</value>
+          <include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
+          <fileType_smv>xml</fileType_smv>
+          <disableFlattening>false</disableFlattening>
+        </item>
+      </features_o>
+    </item>
+  </myRepeat_o>
+  <articles_title_t>Health</articles_title_t>
+  <category_s>health</category_s>
+  <max_articles_i>10</max_articles_i>
+  <objectId>05573d7a-3556-1ad0-6e34-9b085944fee2</objectId>
+  <content-type>/page/category-landing</content-type>
+  <display-template>/templates/web/pages/category-landing.ftl</display-template>
+  <no-template-required>false</no-template-required>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <createdDate>2017-03-14T15:21:57.000Z</createdDate>
+  <createdDate_dt>2017-03-14T15:21:57.000Z</createdDate_dt>
+  <lastModifiedDate>2026-09-11T20:42:42.506Z</lastModifiedDate>
+  <lastModifiedDate_dt>2026-09-11T20:42:42.506Z</lastModifiedDate_dt>
+  <savedAsDraft>false</savedAsDraft>
 </page>
