@@ -18,3 +18,11 @@
 	</a>
     <@crafter.renderComponentCollection $field="socialMediaWidget_o" />
 </@crafter.header>
+
+<div style="width: 100%; margin-top: 20px;" class="features">
+        <@crafter.renderComponentCollection
+            $field="features_o"
+            $containerAttributes={ "class": "features" }
+            $itemAttributes={ "class": "feature-container" }
+        />
+    </div>

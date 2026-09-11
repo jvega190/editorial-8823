@@ -28,6 +28,27 @@
 			    <header class="main">
 				    <h1>${contentModel.articles_title_t}</h1>
 			    </header>
+
+			    <@crafter.renderRepeatGroup
+			    $field="myRepeat_o"
+			    $containerTag="div"
+			    $containerAttributes={ "class": "my-repeat" }
+			    $itemTag="div"
+			    $itemAttributes={ "class": "my-repeat-item" };
+			    repeatItem, repeatIndex
+			    >
+				    <@crafter.renderComponentCollection
+				    $field="features_o"
+				    $fieldCarryover="myRepeat_o"
+				    $indexCarryover=repeatIndex
+				    $collection=repeatItem.features_o!{}
+				    $containerTag="div"
+				    $containerAttributes={ "class": "features" }
+				    $itemTag="div"
+				    $itemAttributes={ "class": "feature" }
+				    />
+			    </@crafter.renderRepeatGroup>
+
 			    <div class="posts">
                                 <#list articles as article>
                                     <@crafter.article $model=article>
