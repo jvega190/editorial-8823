@@ -19,12 +19,6 @@
           <fileType_smv>xml</fileType_smv>
           <disableFlattening>false</disableFlattening>
         </item>
-        <item>
-          <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
-          <value>Smile</value>
-          <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
-          <disableFlattening>false</disableFlattening>
-        </item>
       </features_o>
     </item>
     <item>
@@ -56,7 +50,7 @@
   <merge-strategy>inherit-levels</merge-strategy>
   <createdDate>2017-03-14T15:21:57.000Z</createdDate>
   <createdDate_dt>2017-03-14T15:21:57.000Z</createdDate_dt>
-  <lastModifiedDate>2026-09-17T00:28:50.534Z</lastModifiedDate>
-  <lastModifiedDate_dt>2026-09-17T00:28:50.534Z</lastModifiedDate_dt>
+  <lastModifiedDate>2026-09-17T00:45:00.438Z</lastModifiedDate>
+  <lastModifiedDate_dt>2026-09-17T00:45:00.438Z</lastModifiedDate_dt>
   <savedAsDraft>false</savedAsDraft>
 </page>
