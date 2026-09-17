@@ -156,8 +156,12 @@
 					</properties>
 					<constraints>
 						<constraint>
+							<name>required</name>
+							<type>undefined</type>
+						</constraint>
+						<constraint>
 							<name>allowDuplicates</name>
-							<value>false</value>
+							<value>true</value>
 							<type>boolean</type>
 						</constraint>
 					</constraints>
