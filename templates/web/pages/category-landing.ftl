@@ -45,7 +45,7 @@
 				    $containerTag="div"
 				    $containerAttributes={ "class": "features" }
 				    $itemTag="div"
-				    $itemAttributes={ "class": "feature" }
+				    $itemAttributes={ "class": "feature-container" }
 				    />
 			    </@crafter.renderRepeatGroup>
 
