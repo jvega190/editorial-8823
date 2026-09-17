@@ -23,8 +23,8 @@
         <merge-strategy>inherit-levels</merge-strategy>
         <createdDate>2026-09-04T16:59:17.774Z</createdDate>
         <createdDate_dt>2026-09-04T16:59:17.774Z</createdDate_dt>
-        <lastModifiedDate>2026-09-17T00:45:46.177Z</lastModifiedDate>
-        <lastModifiedDate_dt>2026-09-17T00:45:46.177Z</lastModifiedDate_dt>
+        <lastModifiedDate>2026-09-17T00:45:48.918Z</lastModifiedDate>
+        <lastModifiedDate_dt>2026-09-17T00:45:48.918Z</lastModifiedDate_dt>
         <savedAsDraft>true</savedAsDraft>
         <placeInNav>false</placeInNav>
         <navLabel/>
@@ -32,13 +32,6 @@
       <disableFlattening>false</disableFlattening>
     </item>
 
-    <item>
-      <key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
-      <value>Closed captioning</value>
-      <include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
-      <fileType_smv>xml</fileType_smv>
-      <disableFlattening>false</disableFlattening>
-    </item>
     <item>
       <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
       <value>Smile</value>
@@ -101,8 +94,8 @@
   <merge-strategy>inherit-levels</merge-strategy>
   <createdDate>2017-02-3T23:27:50.000Z</createdDate>
   <createdDate_dt>2017-02-3T23:27:50.000Z</createdDate_dt>
-  <lastModifiedDate>2026-09-17T00:45:46.006Z</lastModifiedDate>
-  <lastModifiedDate_dt>2026-09-17T00:45:46.006Z</lastModifiedDate_dt>
+  <lastModifiedDate>2026-09-17T00:45:48.697Z</lastModifiedDate>
+  <lastModifiedDate_dt>2026-09-17T00:45:48.697Z</lastModifiedDate_dt>
   <savedAsDraft>false</savedAsDraft>
   <placeInNav>false</placeInNav>
   <navLabel/>
