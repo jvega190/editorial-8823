@@ -24,32 +24,6 @@
   <hero_image_s>/static-assets/images/strawberries.jpg</hero_image_s>
   <features_title_t>Erat lacinia</features_title_t>
   <features_o item-list="true">
-    <item inline="true">
-      <key>a89386c4-a205-2681-2db1-c3606f714411</key>
-      <value>Build</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="a89386c4-a205-2681-2db1-c3606f714411">
-        <content-type>/component/feature</content-type>
-        <display-template>/templates/web/components/feature.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <objectId>a89386c4-a205-2681-2db1-c3606f714411</objectId>
-        <file-name>a89386c4-a205-2681-2db1-c3606f714411.xml</file-name>
-        <internal-name>Build</internal-name>
-        <createdDate>2019-10-11T19:19:53.590Z</createdDate>
-        <createdDate_dt>2019-10-11T19:19:53.590Z</createdDate_dt>
-        <lastModifiedDate>2026-09-17T00:19:29.678Z</lastModifiedDate>
-        <lastModifiedDate_dt>2026-09-17T00:19:29.678Z</lastModifiedDate_dt>
-        <disabled>false</disabled>
-        <icon_s>fa-building far</icon_s>
-        <title_t>Build</title_t>
-        <body_html>
-					<![CDATA[<p>Build enean ornare velit lacus, ac varius enim lorem ullamcorper dolore.
-					Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>]]>
-				</body_html>
-      </component>
-    </item>
-
     <item>
       <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
       <value>Smile</value>
@@ -78,8 +52,8 @@
         <internal-name>AFeature</internal-name>
         <createdDate>2026-09-03T17:26:20.591Z</createdDate>
         <createdDate_dt>2026-09-03T17:26:20.591Z</createdDate_dt>
-        <lastModifiedDate>2026-09-03T17:26:30.169Z</lastModifiedDate>
-        <lastModifiedDate_dt>2026-09-03T17:26:30.169Z</lastModifiedDate_dt>
+        <lastModifiedDate>2026-09-17T00:28:58.308Z</lastModifiedDate>
+        <lastModifiedDate_dt>2026-09-17T00:28:58.308Z</lastModifiedDate_dt>
         <disabled>false</disabled>
         <icon_s>fa-closed-captioning far</icon_s>
         <title_t>Feature Title</title_t>
@@ -103,8 +77,8 @@
   <merge-strategy>inherit-levels</merge-strategy>
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-  <lastModifiedDate>2026-09-17T00:19:29.409Z</lastModifiedDate>
-  <lastModifiedDate_dt>2026-09-17T00:19:29.409Z</lastModifiedDate_dt>
+  <lastModifiedDate>2026-09-17T00:28:58.127Z</lastModifiedDate>
+  <lastModifiedDate_dt>2026-09-17T00:28:58.127Z</lastModifiedDate_dt>
   <savedAsDraft>false</savedAsDraft>
   <placeInNav>false</placeInNav>
 </page>
