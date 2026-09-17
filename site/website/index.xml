@@ -38,8 +38,8 @@
         <internal-name>Build</internal-name>
         <createdDate>2019-10-11T19:19:53.590Z</createdDate>
         <createdDate_dt>2019-10-11T19:19:53.590Z</createdDate_dt>
-        <lastModifiedDate>2026-09-17T00:39:40.145Z</lastModifiedDate>
-        <lastModifiedDate_dt>2026-09-17T00:39:40.145Z</lastModifiedDate_dt>
+        <lastModifiedDate>2026-09-17T00:39:43.007Z</lastModifiedDate>
+        <lastModifiedDate_dt>2026-09-17T00:39:43.007Z</lastModifiedDate_dt>
         <disabled>false</disabled>
         <icon_s>fa-building far</icon_s>
         <title_t>Build</title_t>
@@ -48,6 +48,12 @@
 					Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>]]>
 				</body_html>
       </component>
+    </item>
+    <item datasource="">
+      <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
+      <value><![CDATA[Smile]]></value>
+      <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+      <disableFlattening>false</disableFlattening>
     </item>
     <item>
       <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
@@ -88,12 +94,6 @@
       </component>
       <disableFlattening>false</disableFlattening>
     </item>
-    <item datasource="">
-      <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
-      <value><![CDATA[Smile]]></value>
-      <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
-      <disableFlattening>false</disableFlattening>
-    </item>
   </features2_o>
   <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
   <content-type>/page/home</content-type>
@@ -102,8 +102,8 @@
   <merge-strategy>inherit-levels</merge-strategy>
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-  <lastModifiedDate>2026-09-17T00:39:39.984Z</lastModifiedDate>
-  <lastModifiedDate_dt>2026-09-17T00:39:39.984Z</lastModifiedDate_dt>
+  <lastModifiedDate>2026-09-17T00:39:42.854Z</lastModifiedDate>
+  <lastModifiedDate_dt>2026-09-17T00:39:42.854Z</lastModifiedDate_dt>
   <savedAsDraft>false</savedAsDraft>
   <placeInNav>false</placeInNav>
 </page>
